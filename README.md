@@ -1,6 +1,6 @@
 # Python-Aim-Trainer
 
-Enhance your aiming skills and precision with the Aim Trainer Game! This Pygame-based project is designed to help you improve your accuracy, reflexes, and speed in shooting games. Hit targets as they appear and disappear, while tracking your performance metrics to see your progress over time.
+Enhance your aiming skills and precision with the Aim Trainer Game! This Pygame-based project is designed to help you improve your accuracy, reflexes, and speed in shooting games. Hit targets as they appear and disappear while tracking your performance metrics to see your progress over time.
 
 ## Features
 
